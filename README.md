@@ -1,6 +1,15 @@
 # SVM-scikit-learn
 This tutorail will details ipython notebook for SVM Classifer using ScikitLearn Library. 
 
+
+Requirements
+
+1) Jupyter Notebook
+2) Pandas
+3) Scikit Learn
+4) matplotlib
+5) scikitplot
+
 #########################################################################################
 
 Credit
