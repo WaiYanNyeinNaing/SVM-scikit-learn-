@@ -6,8 +6,7 @@ This tutorail will details ipython notebook for SVM Classifer using ScikitLearn 
 
 Library Requirements
 
-Anaconda 
-Jupyter Notebook
+Anaconda / Jupyter Notebook 
 
 2) Pandas
 3) Scikit Learn
