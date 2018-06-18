@@ -1,8 +1,8 @@
 # SVM-scikit-learn
+
+Author - Wai Yan Nyein Naing @ William
+
 This tutorail will details cupcake classification using SVM(Support Vector Machine)classifier. 
-
-
-
 
 Library Requirements
 
