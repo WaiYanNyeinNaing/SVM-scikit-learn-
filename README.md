@@ -15,6 +15,6 @@ Anaconda / Jupyter Notebook
 
 #########################################################################################
 
-The test problem we will use in this repository is the muffin-cupcake dataset (cake.csv) taken from
+The dataset we will use in this repository is the muffin-cupcake dataset (cake.csv) taken from
 from Alice Zhao Merge branch 'master' of https://github.com/adashofdata/muffin-cupcake.
 
