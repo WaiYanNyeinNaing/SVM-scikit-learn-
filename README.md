@@ -1,5 +1,5 @@
 # SVM-scikit-learn
-This tutorail will details ipython notebook for SVM Classifer using ScikitLearn Library. 
+This tutorail will details cupcake classification using SVM(Support Vector Machine)classifier. 
 
 
 
@@ -15,6 +15,6 @@ Anaconda / Jupyter Notebook
 
 #########################################################################################
 
-Credit
-muffin-cupcake dataset (cake.csv) retrieved from Alice Zhao Merge branch 'master' of https://github.com/adashofdata/muffin-cupcake
+The test problem we will use in this repository is the muffin-cupcake dataset (cake.csv) taken from
+from Alice Zhao Merge branch 'master' of https://github.com/adashofdata/muffin-cupcake.
 
